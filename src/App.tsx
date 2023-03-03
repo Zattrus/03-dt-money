@@ -11,7 +11,6 @@ export function App() {
             <GlobalStyle />
 
             <Transaction />
-            <Summary />
         </ThemeProvider>
     )
 }
