@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 1800,
       "createdAt": "2022-08-29T19:30:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-29T01:34:22.947Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-11-29T01:54:56.126Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte de Frutas vermelhas",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-11-29T01:55:18.775Z",
+      "id": 6
     }
   ]
 }
