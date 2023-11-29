@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2023-11-29T01:55:18.775Z",
       "id": 6
+    },
+    {
+      "description": "Monitor",
+      "price": 850,
+      "category": "Informática",
+      "type": "outcome",
+      "createdAt": "2023-11-29T01:57:44.611Z",
+      "id": 7
     }
   ]
 }
